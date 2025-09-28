@@ -36,7 +36,6 @@ export default function HomePage() {
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
                   Professional Web Development
-                  <span className="block text-emerald-600">Contractor Services</span>
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-600 md:text-xl">
                   Expert Laravel and JavaScript development services. From custom web applications to complete website
@@ -174,7 +173,7 @@ export default function HomePage() {
                   About Shepherd Solutions Limited
                 </h2>
                 <p className="max-w-[600px] text-gray-600 md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed">
-                  As an experienced web development contractor, I specialize in delivering high-quality, scalable
+                  As an experienced engineer, I specialize in delivering high-quality, scalable
                   solutions using modern technologies. With expertise in Laravel and JavaScript, I help businesses
                   transform their ideas into powerful web applications.
                 </p>
@@ -253,7 +252,7 @@ export default function HomePage() {
                   <ul className="space-y-2">
                     <li className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-emerald-600 mr-2" />
-                      Experienced contractor with proven track record
+                      Experienced engineer with proven track record
                     </li>
                     <li className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-emerald-600 mr-2" />
